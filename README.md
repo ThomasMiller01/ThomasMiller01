@@ -8,7 +8,7 @@
 ### Get in touch
 
 <div>
-  <a href="https://linkedin.com/in/thomas-miller-2a13991b" style="text-decoration: none !important;">
+  <a href="https://www.linkedin.com/in/thomas-miller-2a13991b1" style="text-decoration: none !important;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.xing.com/profile/Thomas_Miller108" style="text-decoration: none !important;">
