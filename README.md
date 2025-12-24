@@ -1,16 +1,51 @@
 ## Hi 👋, I'm Thomas
-### I'm a Software Developer passionate about new tech and doing stuff right the first time (preferably lol).
 
-- 👨‍💻 All of my projects are available at [https://thomasmiller.info/projects](https://thomasmiller.info/projects)
-- 📝 I write articles on [https://thomasmiller.info/blog](https://thomasmiller.info)
-- 📫 How to reach me **info@thomasmiller.info**
-  
- ### Get in touch:
+### Software Developer with a focus on clean architecture and maintainable software.
 
-[<img align="left" alt="thomasmiller.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://thomasmiller.info)
-[<img align="left" alt="Thomas_Miller108 | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />](https://www.xing.com/profile/Thomas_Miller108)
-[<img align="left" alt="thomas-miller-2a13991b1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/thomas-miller-2a13991b)
-<br>
+- 👨‍💻 Projects & experiments: https://thomasmiller.info/projects
+- 📫 Contact: **info@thomasmiller.info**
 
-### Languages and Tools:
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" align="left" width="30px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" align="left" width="30px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" align="left" width="30px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" align="left" width="30px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" align="left" width="30px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" align="left" width="30px"/>
+### Get in touch
+
+<div>
+  <a href="https://linkedin.com/in/thomas-miller-2a13991b" style="text-decoration: none !important;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.xing.com/profile/Thomas_Miller108" style="text-decoration: none !important;">
+    <img src="https://img.shields.io/static/v1?message=Xing&logo=xing&label=&color=126567&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+  <a href="https://discordapp.com/users/thomasmiller01" style="text-decoration: none !important;">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://thomasmiller.info" style="text-decoration: none !important;">
+    <img src="https://img.shields.io/static/v1?message=Website&label=&color=1F1F1F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+  </a>
+</div>
+
+### Languages & Tools
+
+<div>
+  <img src="https://skillicons.dev/icons?i=py" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" />
+</div>
